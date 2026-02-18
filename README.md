@@ -12,7 +12,7 @@
 ## ✨ Features
 
 - 🔐 **Authentication**: Sign in with Google
-- 👥 **Role-based Access** _(Added by @NotHarshhaa)_: Admin & User role-based features and permissions
+- 👥 **Role-based Access** : Admin & User role-based features and permissions
 - ✍️ **Rich Text Editor**: Create and edit blog posts with a modern editor
 - 🌙 **Dark Mode**: Toggle between light and dark themes
 - ❤️ **Like Button**: Like and unlike blog posts
