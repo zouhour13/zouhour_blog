@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "jsx": "preserve",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    }
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "extends": "@nelsonlaidev/typescript-config/nextjs.json",
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "postcss.config.mjs",
+    "eslint.config.mjs",
+    "prettier.config.js",
+    "types"
+  ]
+}
