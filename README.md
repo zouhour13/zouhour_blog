@@ -1,10 +1,8 @@
 # **Zouhour's Personal DevOps & Cloud Space**
 
 
-🚀 **Welcome to a personal space dedicated to DevOps, Cloud computing, and all things infrastructure.Discover hands-on tutorials, real-world engineering insights, and tools like Kubernetes, Terraform, Docker, and AWS.**
 
-<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&labelColor=000" alt="Framework" /> <img src="https://img.shields.io/github/languages/top/notharshhaa/personal-blog?style=for-the-badge&labelColor=000" alt="Language" /> <img src="https://img.shields.io/github/license/notharshhaa/personal-blog?style=for-the-badge&labelColor=000" alt="License" />
-
+<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&labelColor=000" alt="Framework" /> <img src="https://img.shields.io/github/languages/top/notharshhaa/personal-blog?style=for-the-badge&labelColor=000" alt="Language" /> 
 
 
 ## 🛠 **Tech Stack**
